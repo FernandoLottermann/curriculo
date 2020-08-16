@@ -81,3 +81,9 @@ p {
     width: 330px;
     margin: 0 auto;
 }
+
+#subir {
+    position: fixed;
+    bottom: 20px;
+    right: 15px;
+}
