@@ -10,14 +10,14 @@ body {
     font-size: 18px;
     line-height: 32px;
     /**/
-    width: 400px;
+    width: 360px;
     margin: 0 auto;
 }
 
 header {
     display: flex;
     /**/
-    width: 400px;
+    width: 360px;
     margin: 0 auto;
 }
 
@@ -25,7 +25,7 @@ section {
     padding: 20px;
     width: 60%;
     /**/
-    width: 400px;
+    width: 360px;
     margin: 0 auto;
 }
 
@@ -33,21 +33,21 @@ section {
     font-weight: bold;
     padding: 20px;
     /**/
-    width: 400px;
+    width: 360px;
     margin: 0 auto;
 }
 
 .meu-nome {
     font-size: 45px;
     /**/
-    width: 400px;
+    width: 360px;
     margin: 0 auto;
 }
 
 h1 {
     font-size: 38px;
     /**/
-    width: 400px;
+    width: 360px;
     margin: 0 auto;
 }
 
@@ -55,21 +55,21 @@ h2 {
     font-size: 35px;
     padding: 10px;
     /**/
-    width: 400px;
+    width: 360px;
     margin: 0 auto;
 }
 
 h3 {
     font-size: 28px;
     /**/
-    width: 400px;
+    width: 360px;
     margin: 0 auto;
 }
 
 h4 {
     font-size: 24px;
     /**/
-    width: 400px;
+    width: 360px;
     margin: 0 auto;
 }
 
@@ -78,6 +78,6 @@ h4,
 p {
     padding: 8px;
     /**/
-    width: 400px;
+    width: 360px;
     margin: 0 auto;
 }
