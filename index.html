@@ -10,8 +10,22 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="css/reset.css" />
-    <link rel="stylesheet" href="css/style.css" />
 
+    <!--
+        retirada a folha de style pois ela foi replicada na três folhas abaixo afim de deixar a página responsiva
+        <link rel="stylesheet" href="css/style.css" />
+    -->
+
+
+    <!--Linkando os arquivos css para deixar a visualização responsiva em três tamanhos-->
+    <link rel="stylesheet" type="text/css" media="screen and (min-width:0px)" href="css/small.css" />
+    <link rel="stylesheet" type="text/css" media="screen and (min-width:1000px)" href="css/medium.css" />
+    <link rel="stylesheet" type="text/css" media="screen and (min-width:1350px)" href="css/large.css" />
+
+
+
+
+    <!--Aplicando estilo bootstrap na página-->
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
     <script type="text/javascript" src="js/bootstrap.js"></script>
     <script type="text/javascript" src="js/jquery-3.5.1.min.js"></script>
@@ -29,13 +43,6 @@
             <h1>Suporte Técnico / Desenvolvedor Trainee</h1>
         </div>
 
-        <!--
-        <div class="imprimir">
-            <button>
-          <a>Imprimir</a>
-        </button>
-        </div>
-        -->
     </header>
 
 
@@ -108,7 +115,7 @@
 
     <footer>
         Portfolio:
-        <a href="https://github.com/FernandoLottermann">FernandoLottermann.github</a> Codado por Fernando Lottermann
+        <a href="https://github.com/FernandoLottermann">FernandoLottermann.github</a> Codado por Fernando Lottermann.
     </footer>
 
 </body>

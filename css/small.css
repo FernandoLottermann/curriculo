@@ -1,0 +1,83 @@
+/* Documento CSS */
+
+* {
+    margin: 0px;
+    padding: 10px;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    line-height: 32px;
+    /**/
+    width: 500px;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    /**/
+    width: 500px;
+    margin: 0 auto;
+}
+
+section {
+    padding: 20px;
+    width: 60%;
+    /**/
+    width: 500px;
+    margin: 0 auto;
+}
+
+.titulo {
+    font-weight: bold;
+    padding: 20px;
+    /**/
+    width: 500px;
+    margin: 0 auto;
+}
+
+.meu-nome {
+    font-size: 45px;
+    /**/
+    width: 500px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 38px;
+    /**/
+    width: 500px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 35px;
+    padding: 10px;
+    /**/
+    width: 500px;
+    margin: 0 auto;
+}
+
+h3 {
+    font-size: 28px;
+    /**/
+    width: 500px;
+    margin: 0 auto;
+}
+
+h4 {
+    font-size: 24px;
+    /**/
+    width: 500px;
+    margin: 0 auto;
+}
+
+h3,
+h4,
+p {
+    padding: 10px;
+    /**/
+    width: 500px;
+    margin: 0 auto;
+}
