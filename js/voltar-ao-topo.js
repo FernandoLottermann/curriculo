@@ -9,12 +9,6 @@ $(document).ready(function() {
 });
 
 
-
-
-
-
-
-
 /*
 $(document).ready(function() {
     $('#experiencia').click(function() {
