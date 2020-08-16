@@ -5,18 +5,22 @@
     padding: 10px;
 }
 
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
 body {
     font-family: "Roboto", sans-serif;
     font-size: 18px;
     line-height: 32px;
-    /**/
     width: 1350px;
     margin: 0 auto;
 }
 
 header {
     display: flex;
-    /**/
     width: 1350px;
     margin: 0 auto;
 }
@@ -24,7 +28,6 @@ header {
 section {
     padding: 20px;
     width: 60%;
-    /**/
     width: 1350px;
     margin: 0 auto;
 }
@@ -32,21 +35,18 @@ section {
 .titulo {
     font-weight: bold;
     padding: 20px;
-    /**/
     width: 1350px;
     margin: 0 auto;
 }
 
 .meu-nome {
     font-size: 45px;
-    /**/
     width: 1350px;
     margin: 0 auto;
 }
 
 h1 {
     font-size: 38px;
-    /**/
     width: 1350px;
     margin: 0 auto;
 }
@@ -54,7 +54,6 @@ h1 {
 h2 {
     font-size: 35px;
     padding: 10px;
-    /**/
     width: 1350px;
     margin: 0 auto;
 }
@@ -67,7 +66,6 @@ h3 {
 
 h4 {
     font-size: 24px;
-    /**/
     width: 1350px;
     margin: 0 auto;
 }
@@ -75,7 +73,6 @@ h4 {
 h4,
 p {
     padding: 7px;
-    /**/
     width: 1350px;
     margin: 0 auto;
 }
@@ -108,4 +105,10 @@ div.menu a {
 
 div.menu a:hover {
     background-color: #777;
+}
+
+.img-perfil {
+    width: "400px";
+    height: "400px";
+    padding: 30px;
 }

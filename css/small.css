@@ -5,6 +5,12 @@
     padding: 10px;
 }
 
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
 body {
     font-family: "Roboto", sans-serif;
     font-size: 18px;
