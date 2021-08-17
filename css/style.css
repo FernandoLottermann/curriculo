@@ -44,3 +44,7 @@ h4,
 p {
     padding: 10px;
 }
+
+.photo {
+    border-radius: 50%;
+}
