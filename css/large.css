@@ -108,4 +108,5 @@ div.menu a:hover {
     width: "400px";
     height: "400px";
     padding: 30px;
+    border-radius: 50%;
 }
